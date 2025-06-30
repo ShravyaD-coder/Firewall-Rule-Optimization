@@ -59,18 +59,16 @@ sudo iptables-save > input_file_path.txt
 
 ## Outputs
 
-Original IP Firewall Rules
-![image](https://github.com/user-attachments/assets/5396e457-9df6-4210-90b3-a9485baad608)
+
+![image](https://github.com/user-attachments/assets/5396e457-9df6-4210-90b3-a9485baad608) *Original IP Firewall Rules*
+
+![image](https://github.com/user-attachments/assets/aa0cc08c-c6d8-4e0b-ab99-5fcf206d6080) *Shadowing Anomaly Removed*
 
 
-Shadowing Anomaly Removed
-![image](https://github.com/user-attachments/assets/aa0cc08c-c6d8-4e0b-ab99-5fcf206d6080)
+![image](https://github.com/user-attachments/assets/4dfd8aef-ee1f-406f-b266-bc83fea40101) *Redundant Rules Removed*
 
-Redundant Rules Removed
-![image](https://github.com/user-attachments/assets/4dfd8aef-ee1f-406f-b266-bc83fea40101)
 
-Final Optimized Rules
-![image](https://github.com/user-attachments/assets/212c71ac-e4f3-4ba3-b70a-f62432a95572)
+![image](https://github.com/user-attachments/assets/212c71ac-e4f3-4ba3-b70a-f62432a95572) *Final Optimized Rules*
 
 
 ---
